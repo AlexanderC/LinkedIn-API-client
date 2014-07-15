@@ -8,7 +8,7 @@ use HappyR\LinkedIn\Http\Request;
 use HappyR\LinkedIn\Http\RequestInterface;
 use HappyR\LinkedIn\Http\UrlGenerator;
 use HappyR\LinkedIn\Http\UrlGeneratorInterface;
-use HappyR\LinkedIn\Storage\DataStorage;
+use HappyR\LinkedIn\Storage\DataStorageInterface as DataStorage;
 use HappyR\LinkedIn\Storage\SessionStorage;
 use HappyR\LinkedIn\Storage\IlluminateSessionStorage;
 
